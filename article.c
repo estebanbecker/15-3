@@ -20,7 +20,6 @@ int check(char code[6], article liste[5] ){
                 t_f2=1;
             }
             ++j;
-
         }
 
         if (code[j-1]==liste[i].code[j-1]){

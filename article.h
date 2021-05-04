@@ -4,7 +4,6 @@
 typedef struct{
     char code[6];
     char nom[16];
-
     float prix;
 }article;
 

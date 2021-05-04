@@ -35,7 +35,6 @@ int main() {
         gets(recup);
 
         while (check(recup,liste)){
-
             printf(("Code incorectre veuillez reesayer\n"));
             fflush(stdin);
             gets(recup);
