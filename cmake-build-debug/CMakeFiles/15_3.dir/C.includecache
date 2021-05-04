@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/esteb/OneDrive - Universite De Technologie De Belfort-Montbeliard/Cours/UTBM/TC02/IFB/Programmes/15-3/article.h
+
+C:/Users/esteb/OneDrive - Universite De Technologie De Belfort-Montbeliard/Cours/UTBM/TC02/IFB/Programmes/15-3/main.c
+stdio.h
+-
+article.h
+C:/Users/esteb/OneDrive - Universite De Technologie De Belfort-Montbeliard/Cours/UTBM/TC02/IFB/Programmes/15-3/article.h
+string.h
+-
+
